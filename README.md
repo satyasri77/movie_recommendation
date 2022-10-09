@@ -1,2 +1,2 @@
 # movie_recommendation
-Movie recommendation system using cosine similarity
+Building the movie recommendation system using NLP, machine learning and cosine similarity metric. 
